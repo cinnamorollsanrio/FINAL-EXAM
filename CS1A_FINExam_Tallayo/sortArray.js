@@ -23,7 +23,7 @@ console.log("Numbers Sorted Reverse:", numbersSortedRev);
 let namesSorted = names.sort();
 console.log("Names Sorted Alphabetically:", namesSorted);
 
-// OUTPUT
+// OUTPUT - using the given numbers n name
 // Merged Array:
 // (14) [24, 65, 21, 5, 9, 32, 42, 80, 57, "...]  
 // Numbers Sorted Reverse:
