@@ -19,8 +19,8 @@ function isWord(str) {
 
 // add item to the stack
 function push(item) {
-    if (!isWord(item)) {
-        console.log("Invalid item. Please enter words only.");
+    if (!isWord(item)) { // i use isWord() to prevent numbers or symbols
+        console.log("Invalid item. Please enter words only."); // dis what hapens if its numbers or symbols
         return;
     }
     groceryStack.push(item);
