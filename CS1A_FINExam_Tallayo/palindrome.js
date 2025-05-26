@@ -16,7 +16,7 @@ console.log("Word 2:", word2);
 console.log("Reversed 2:", rev2);
 console.log("Is Palindrome?", word2 === rev2);  // check if dsame
 
-// OUTPUT
+// OUTPUT using the words RACECAR n RECORDER
 // Word 1:
 // RACECAR
 // Reversed 1:
